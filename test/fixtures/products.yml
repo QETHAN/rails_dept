@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  image_url: lorem.jpg
+  price: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  image_url: lorem.jpg
+  price: 9.99
+
+ruby:
+  title: Ruby-2.7.1
+  description: ruby是一个快乐的编程语言
+  price: 49.50
+  image_url: ruby.jpg
